@@ -1,0 +1,1 @@
+https://Deniskhaliullin.github.io/rsschool-2023q1/rsschool-cv/cv
