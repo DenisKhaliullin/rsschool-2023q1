@@ -1,5 +1,5 @@
 # Denis Khaliullin
----
+
 ### Contact information:
 ***
 * **Phone number:** +7(937)-487-33-93
@@ -28,10 +28,10 @@ alert( result );
 ```
 ### Education:
 ***
-Ufa State Petroleum Technological University 2005-2010
-Drilling oil and gas wells
-Udemy
-JavaScript in progress
+* Ufa State Petroleum Technological University 2005-2010
+    * Drilling oil and gas wells
+* Udemy
+    * JavaScript in progress
 
 ### Languages:
 ***
